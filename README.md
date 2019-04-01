@@ -37,25 +37,27 @@ Some standard 0603 resistors, pinheader and condensators i.e. 10k or 330
 # 3D parts
 Housing:
 
-[.stl]() [.step]() [.ipt]()
+[.stl](https://github.com/techscout1/LiteFeeder/blob/master/Housing.stl) [.step](https://github.com/techscout1/LiteFeeder/blob/master/Housing.stp) [.ipt](https://github.com/techscout1/LiteFeeder/blob/master/Housing.ipt)
 
 Pulling Wheel:
 
-[.stl]() [.step]() [.ipt]()
+[.stl](https://github.com/techscout1/LiteFeeder/blob/master/PullingWheel.stl) [.step](https://github.com/techscout1/LiteFeeder/blob/master/PullingWheel.stp) [.ipt](https://github.com/techscout1/LiteFeeder/blob/master/PullingWheel.ipt)
 
 Powerrail: (from a pcb coppe plate)
 
-[.step]() [.ipt]()
+[.step](https://github.com/techscout1/LiteFeeder/blob/master/PowerRail.stp) [.ipt](https://github.com/techscout1/LiteFeeder/blob/master/PowerRail.ipt)
 
 
 # PCB
 We've orded the PCB at PCBway.com its really cheap an fast.
 *Please Note*: the wiring diagram is fine but there are some issues with the boardlayout. Please verify it. --> You should add an 0.1µ condensator between VCC and GND otherwise it will not work fine. Futhermore the footprint of the battery connector to the powerrail must be integrated. In the gerber file is the battery footprint integrated but not the 0.1µ capacitor. 
 
-[PCB Parts & Files]()
+[PCB Parts & Files](https://github.com/techscout1/LiteFeeder/blob/master/Feeder0.95.zip)
 
 
 # Programm
+
+[Software LiteFeeder](https://github.com/techscout1/LiteFeeder/blob/master/LiteFeeder_V1.zip)
 
 Since Arduino coding on MCUs is quite simple. We uploaded our sketch. To programm we used the an Arduino Uno as ISP and the ATtinyCore for the boards manager. You can download it [here](https://github.com/SpenceKonde/ATTinyCore).
 
