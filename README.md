@@ -3,7 +3,7 @@ LiteFeeder is a extension to [LiteSolder](https://github.com/Carinalo93/LiteSold
 
 # Priciple
 
-The LiteFeeder is an automatic SMT part feeder for standard 8mm tapes. It comes with a strong magnet and a powerrail to simply mount and exchange the feeder in front of the LitePlacer. Its driven by a cheap stepper motor. The main working principle is very simple. When the LitePlacer picks a part from the LiteFeeder. The Feeder can recognize this in two ways. We used a light barrier to detect the nozzle. Futhermore in the pcb is a place for an hall sensor too. We just used the light barrier but it can be extend to both sensors by default. After detecting the nozzle the LitePlacer wait 6 seconds.After it the stepper pulls the masking tape until the next hole is detected. Thats it its. Simple but powerfull! 
+The LiteFeeder is an automatic SMT part feeder for standard 8mm tapes. It comes with a strong magnet and a powerrail to simply mount and exchange the feeder in front of the LitePlacer. Its driven by a cheap stepper motor. The main working principle is very simple. When the LitePlacer picks a part from the LiteFeeder. The Feeder can recognize this in two ways. We used a light barrier to detect the nozzle. Futhermore in the pcb is a place for an hall sensor too. We just used the light barrier but it can be extend to both sensors by default. After detecting the nozzle the LitePlacer wait 6 seconds. After it the stepper pulls the masking tape until the next hole is detected. Thats it its. Simple but powerful! 
 
 # Bill of materials
 
@@ -43,7 +43,7 @@ Pulling Wheel:
 
 [.stl](https://github.com/techscout1/LiteFeeder/blob/master/PullingWheel.stl) [.step](https://github.com/techscout1/LiteFeeder/blob/master/PullingWheel.stp) [.ipt](https://github.com/techscout1/LiteFeeder/blob/master/PullingWheel.ipt)
 
-Powerrail: (from a pcb coppe plate)
+Powerrail: (from a pcb copper plate)
 
 [.step](https://github.com/techscout1/LiteFeeder/blob/master/PowerRail.stp) [.ipt](https://github.com/techscout1/LiteFeeder/blob/master/PowerRail.ipt)
 
