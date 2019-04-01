@@ -19,7 +19,7 @@ The LiteFeeder is an automatic SMT part feeder for standard 8mm tapes. It comes 
 
 Some standard 0603 resistors, pinheader and condensators i.e. 10k or 330
 
-**3D parts**
+* 3D parts
 Housing:
 
 [.stl]() [.step]() [.ipt]()
