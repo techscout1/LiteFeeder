@@ -8,17 +8,29 @@ The LiteFeeder is an automatic SMT part feeder for standard 8mm tapes. It comes 
 # Bill of materials
 
 1x 28byj-48 Stepper Motor
+
 1x 30x4mm Neodym Magnet
+
 1x Red 90° right angled SMD LED
+
 1x Green 90° right angled SMD LED
+
 1x Right angled push switch KSS231G
+
 1x ATtiny84 SOIC 14
+
 1x ULN2003A SOIC 16
+
 1x QRE1113 light barrier oder DRV5023 for nozzle dection
+
 1x SX1106 fork light barrier for hole dection
+
 1x JST B5B XH A Connector for the stepper
+
 1x 9155 AVX 2 Pin Battery Connector
+
 2x 3,5x16 Screws 
+
 
 Some standard 0603 resistors, pinheader and condensators i.e. 10k or 330
 
