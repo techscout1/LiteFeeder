@@ -55,6 +55,9 @@ We've orded the PCB at PCBway.com its really cheap an fast.
 [PCB Parts & Files]()
 
 
+# Programm
+
+Since Arduino coding on MCUs is quite simple. We uploaded our sketch. To programm we used the an Arduino Uno as ISP and the ATtinyCore for the boards manager. You can download it [here](https://github.com/SpenceKonde/ATTinyCore).
 
 
 
